@@ -1,7 +1,7 @@
 ## Scalable Training of Inference Networks for Gaussian-Process Models
 
 
-<img src="results/toy/snelson/gpnet/gaussian.png" width="600">
+<img src="results/toy/snelson/gpnet.gif" width="600">
 
 
 ```
